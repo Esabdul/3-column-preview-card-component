@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/3-column-preview-card-component-your-solution](https://www.frontendmentor.io/solutions/3-column-preview-card-component-your-solution)
-- Live Site URL: [https://yourusername.github.io/3-column-preview-card](https://yourusername.github.io/3-column-preview-card)
+- Solution URL:{https://esabdul.github.io/3-column-preview-card-component/}
+- Live Site URL: [https://esabdul.github.io/3-column-preview-card-component/]
 
 ---
 
@@ -74,7 +74,7 @@ Areas I want to focus on in future projects:
 ## Author
 
 - Frontend Mentor - [@Esabdul](https://www.frontendmentor.io/profile/Esabdul)
-- GitHub - [@Esabdul](https://github.com/yourusername)
+- GitHub - [@Esabdul](https://github.com/Esabdul)
 
 ---
 
