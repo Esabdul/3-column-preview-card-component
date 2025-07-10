@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:{https://esabdul.github.io/3-column-preview-card-component/}
+- Solution URL:{https://www.frontendmentor.io/solutions/responsive-3-column-card-component-with-flexbox-PZuflPUeX0}
 - Live Site URL: [https://esabdul.github.io/3-column-preview-card-component/]
 
 ---
